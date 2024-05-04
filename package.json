@@ -1,0 +1,19 @@
+{
+  "name": "aesir-afk-kaktus-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-protocol": "^1.47.0",
+    "mineflayer": "^4.16.0",
+    "prismarine-entity": "^2.4.0",
+    "util": "^0.12.5",
+    "vec3": "^0.1.10"
+  }
+}
